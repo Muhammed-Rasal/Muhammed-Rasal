@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently Doing Internship from Edapt
+- 🔭 Currently, I am doing my internship at Edapt
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me:LinkedIn: [@MuhammedRasal](https://www.linkedin.com/in/muhammed-rasal-ab95b4227/)
