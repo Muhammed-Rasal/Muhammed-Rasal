@@ -6,9 +6,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 Currently, I am doing my internship at Edapt
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter Projects
+- 🔭 Currently, I am Working in Artifitia Solitions as a Flutter Developer
 - 📫 How to reach me:LinkedIn: [@MuhammedRasal](https://www.linkedin.com/in/muhammed-rasal-ab95b4227/)
 - 💬 Ask me about Flutter or Tech Stuffs!
 - 😄 Pronouns: He/His
